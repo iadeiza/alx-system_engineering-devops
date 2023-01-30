@@ -1,2 +1,3 @@
 #!/usr/env/bin bash
+#shellcheck shell=bash
 pkill 4-to_infinity_and_beyond
